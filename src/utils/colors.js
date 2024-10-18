@@ -1,7 +1,8 @@
 export const colors = {
     white: '#FFFFFF',
     primary: '#45484A',
-    scondary: '#AEB%BB',
+    blue:  '#00FFFF',
+    secondary: '#AEB%BB',
     gray: '#827e7e',
     ChartreuseGreen: '#80ff00', 
     Lavender: '#E6E6FA',
