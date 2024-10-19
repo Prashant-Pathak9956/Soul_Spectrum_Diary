@@ -62,7 +62,7 @@ const LoginScreen = () => {
         <Text style={styles.continueText}>or continue with</Text>
         <TouchableOpacity style={styles.googleButtonContainer}>
           <Image
-            source={require("../assets/google.png")}
+            source={require("../assets/Google.png")}
             style={styles.googleImage}
           />
           <Text style={styles.googleText}>Google</Text>
